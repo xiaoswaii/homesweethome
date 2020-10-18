@@ -90,14 +90,14 @@
     margin-top: 10px;
 }
 .font-size14 {
-    font-size: 14px;
+    font-size: 1rem;
 }
 
 .text-light-gray {
     color: #d6d5d5;
 }
 .font-size13 {
-    font-size: 13px;
+    font-size: 1rem;
 }
 
 .table-bordered td, .table-bordered th {
